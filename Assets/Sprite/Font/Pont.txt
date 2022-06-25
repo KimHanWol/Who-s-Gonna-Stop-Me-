@@ -1,0 +1,2 @@
+영문은 Noto Sans Black
+한글은 Malgunbd(맑은고딕)
